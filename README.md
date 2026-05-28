@@ -18,7 +18,7 @@ Currently pursuing an **M.S. in Data Science at UMBC (GPA 4.0)**, building on a 
 
 - 🔭 **Open to** — Data Scientist, ML Engineer, Data Analyst, SDE/SWE, and Solutions Architect roles
 - 👯 **Collaborating on** — end-to-end ML pipelines, LLM/RAG applications, big data engineering, and NLP systems
-- 🌱 **Currently learning** — advanced deep learning, LLM fine-tuning, distributed systems, cloud-native architecture
+- 📚 **Currently learning** — advanced deep learning, LLM fine-tuning, distributed systems, cloud-native architecture
 - 💬 **Ask me about** — ML pipelines, NLP, RAG, PySpark, ETL/ELT, Azure Databricks, Power BI, deep learning
 
 ---
@@ -28,15 +28,12 @@ Currently pursuing an **M.S. in Data Science at UMBC (GPA 4.0)**, building on a 
 <!-- skillicons auto-renders icons. Edit the i= list (slugs at https://skillicons.dev). -->
 [![My Skills](https://skillicons.dev/icons?i=python,java,scala,js,bash,tensorflow,pytorch,sklearn,spark,hadoop,aws,azure,postgres,mysql,mongodb,docker,git,react,flask)](https://skillicons.dev)
 
-**Languages & Query:** Python · SQL · Java · Scala · JavaScript · Bash
-**ML & AI:** TensorFlow · Keras · PyTorch · scikit-learn · Hugging Face
-&nbsp;&nbsp;&nbsp;&nbsp;↳ CNN · LSTM / Bi-LSTM · ResNet50 · VGG16 · RAG · Grad-CAM · FinBERT · GloVe · Transfer Learning · XGBoost
-**Big Data & Cloud:** Apache Spark · Hadoop · AWS · Azure · Snowflake
-&nbsp;&nbsp;&nbsp;&nbsp;↳ PySpark · Hive · Kafka · AWS EMR · Azure Databricks · Amazon Redshift
-**Databases:** PostgreSQL · MySQL · MongoDB · Cosmos DB · SQL Server · ChromaDB
-**ETL & DevOps:** Azure DevOps · Git · Docker · Jira · Oracle Data Integrator (ODI) · SSIS · CI/CD Pipelines
-**BI & Visualization:** Tableau · Power BI · Plotly
-**Web:** React · Flask · HTML5 · CSS3
+**Languages:** Python, SQL, Java, Scala, JavaScript, Bash  
+**ML & AI:** TensorFlow, Keras, PyTorch, scikit-learn, Hugging Face, RAG, LSTM, Transfer Learning  
+**Big Data & Cloud:** Spark, Hadoop, AWS, Azure, Snowflake, PySpark, Databricks, Kafka  
+**Databases:** PostgreSQL, MySQL, MongoDB, Cosmos DB, ChromaDB  
+**ETL & DevOps:** Azure DevOps, Docker, Git, Jira, ODI, CI/CD  
+**BI & Web:** Tableau, Power BI, Plotly, React, Flask
 
 ---
 
