@@ -73,7 +73,7 @@ Hybrid ML pipeline combining **FinBERT** sentiment scoring of financial headline
 | 🔹 Research Assistant, Data Analytics Lab | University of Maryland, Baltimore County | Feb 2025 – Present |
 | 🔹 Office Assistant, GSA Senator's Office | University of Maryland, Baltimore County | Aug 2025 – Present |
 | 🔹 Data Analyst | Accenture, Hyderabad | Aug 2023 – Nov 2024 |
-| 🔹 UI/UX Front-End Developer Intern | Infosys, Mysore | May 2022 – Dec 2022 |
+| 🔹 Data Analyst Intern | Accenture, Hyderabad | May 2022 – May 2023 |
 
 **Accenture** — Led post-merger data migration, optimizing ETL pipelines with Oracle Data Integrator, SQL, and Azure Databricks and structuring Cosmos DB into a Databricks Lakehouse. Automated CI/CD with Azure DevOps, tracked sprints in Jira, and built Tableau KPI dashboards that cut manual effort by **25%**.
 
@@ -85,7 +85,7 @@ Hybrid ML pipeline combining **FinBERT** sentiment scoring of financial headline
 
 | Degree | Institution | GPA | Period |
 |--------|-------------|-----|--------|
-| 🎓 M.S. Data Science | University of Maryland, Baltimore County (UMBC) | 4.0 / 4.0 | Jan 2025 – Dec 2026 |
+| 🎓 M.S. Data Science | University of Maryland, Baltimore County (UMBC) | 3.8 / 4.0 | Jan 2025 – Dec 2026 |
 | 🎓 B.Tech Computer Science & Engineering | Sreenidhi Institute of Science & Technology (SNIST) | 3.5 / 4.0 | Aug 2019 – Jul 2023 |
 
 ---
