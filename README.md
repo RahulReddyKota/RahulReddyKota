@@ -71,7 +71,6 @@ Hybrid ML pipeline combining **FinBERT** sentiment scoring of financial headline
 | Role | Organisation | Period |
 |------|--------------|--------|
 | 🔹 Research Assistant, Data Analytics Lab | University of Maryland, Baltimore County | Feb 2025 – Present |
-| 🔹 Office Assistant, GSA Senator's Office | University of Maryland, Baltimore County | Aug 2025 – Present |
 | 🔹 Data Analyst | Accenture, Hyderabad | Aug 2023 – Nov 2024 |
 | 🔹 Data Analyst Intern | Accenture, Hyderabad | May 2022 – May 2023 |
 
