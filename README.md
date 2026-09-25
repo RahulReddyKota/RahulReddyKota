@@ -1,57 +1,134 @@
-[![Banner](banner.svg)](https://github.com/RahulReddyKota)
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=8A2BE2&center=true&vCenter=true&width=750&lines=Turning+messy+data+into+models+that+ship;RAG+%7C+NLP+%7C+Healthcare+AI+%7C+Explainable+ML;PySpark+%7C+Azure+Databricks+%7C+AWS+EMR" alt="Typing SVG" />
+  <img src="banner.svg" width="100%" alt="Rahul Reddy Kota. Blueprint of a data pipeline flowing from raw data through transform and training into production." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahul-reddy-kota-b55a3a251/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn"/></a>
-  <a href="https://rahulreddykota.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=8A2BE2" alt="Portfolio"/></a>
-  <a href="https://github.com/RahulReddyKota"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2" alt="GitHub"/></a>
-  <!-- To add an email badge, uncomment and put your real address in:
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/rahul-reddy-kota-b55a3a251/"><img src="https://img.shields.io/badge/LinkedIn-12355B?style=for-the-badge&logo=linkedin&logoColor=F5A524" alt="LinkedIn" /></a>
+  <a href="https://rahulreddykota.github.io/"><img src="https://img.shields.io/badge/Portfolio-12355B?style=for-the-badge&logo=githubpages&logoColor=F5A524" alt="Portfolio" /></a>
+  <!-- To add email, uncomment and replace the address:
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-12355B?style=for-the-badge&logo=gmail&logoColor=F5A524" alt="Email" /></a>
   -->
 </p>
 
-[![divider](divider.svg)](#)
+## Spec sheet
 
-## ▸ About
+```yaml
+# rahul-reddy-kota
+role: Data scientist and ML engineer
+location: Baltimore, MD
 
-Data Scientist & ML Engineer who has worked on both sides of the pipeline: moving and cleaning enterprise data at **Accenture**, and building models on top of it at **UMBC**. Currently pursuing an **M.S. in Data Science at UMBC**, where I'm a Research Assistant in the Data Analytics Lab.
+education:
+  - M.S. Data Science, UMBC (Dec 2026)
+  - B.Tech Computer Science, SNIST (2023)
 
-At Accenture, I led post-merger data migration work — ETL with Oracle Data Integrator, SQL, and Azure Databricks, Cosmos DB restructured into a Lakehouse, CI/CD through Azure DevOps — and built Tableau KPI dashboards that cut manual effort by **25%**. At UMBC, my SQL and Python pipelines reduced research preprocessing time by **~40%**.
+experience:
+  - where: UMBC Data Analytics Lab
+    role: Research assistant (2025 to now)
+    impact: 40% less manual preprocessing for faculty research
+  - where: Accenture, Hyderabad
+    role: Data analyst (2022 to 2024)
+    built: Post-merger migration into a Databricks Lakehouse
+    impact: 25% less manual effort through Tableau KPI dashboards
 
-These days I build RAG systems, NLP pipelines, and explainable healthcare models, with a bias toward things that actually run outside a notebook.
+certified:
+  - AWS Certified Cloud Practitioner
+  - Microsoft Power BI Data Analyst Associate
+  - Google Data Analytics Professional Certificate
 
-***"A model that scores well in a notebook is a draft. A model that runs reliably on real data is a product — that's the one I'm trying to build."***
+learning_now: [LLM fine-tuning, distributed systems, cloud-native design]
+open_to: [Data scientist, ML engineer, Data analyst, SWE, Solutions architect]
+```
 
-[![divider](divider.svg)](#)
+<img src="divider.svg" width="100%" alt="" />
 
-## ▸ Technical Skills
+## Toolkit, by pipeline stage
 
-| Category | Skills |
+| Stage | Tools |
 | --- | --- |
-| **Languages** | Python, SQL, Java, Scala, JavaScript, Bash |
-| **Machine Learning & Deep Learning** | TensorFlow, Keras, PyTorch, scikit-learn, Hugging Face, LSTM / Bi-LSTM, Transfer Learning, Grad-CAM |
-| **LLMs & Retrieval** | Retrieval-Augmented Generation, Ollama, Llama 3.1, Mistral 7B, Qwen 2.5, ChromaDB, Semantic Search, FinBERT |
-| **Big Data & Cloud** | Apache Spark / PySpark, Hadoop, Hive, Kafka, Azure Databricks, AWS (EMR, S3), Snowflake |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Cosmos DB |
-| **Data Engineering & DevOps** | ETL/ELT, Oracle Data Integrator, Azure DevOps, Docker, CI/CD, Git, Jira |
-| **BI & Web** | Power BI, Tableau, Plotly, React, Flask |
-| **Certifications** | AWS Certified Cloud Practitioner · Microsoft Power BI Data Analyst Associate · Google Data Analytics Professional Certificate |
+| **① Ingest** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="36" alt="PostgreSQL, MySQL, MongoDB" /><br>Cosmos DB, Snowflake, Kafka |
+| **② Transform** | <img src="https://skillicons.dev/icons?i=spark,hadoop,azure,aws" height="36" alt="Spark, Hadoop, Azure, AWS" /><br>PySpark, Azure Databricks, Hive, AWS EMR, Oracle Data Integrator |
+| **③ Train** | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" height="36" alt="Python, TensorFlow, PyTorch, scikit-learn" /><br>Keras, Hugging Face, FinBERT, ChromaDB, Ollama |
+| **④ Ship** | <img src="https://skillicons.dev/icons?i=docker,git,flask,react" height="36" alt="Docker, Git, Flask, React" /><br>Azure DevOps, CI/CD, Power BI, Tableau, Jira |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,scala,js,bash" height="36" alt="Python, Java, Scala, JavaScript, Bash" /><br>SQL |
 
-[![divider](divider.svg)](#)
+<img src="divider.svg" width="100%" alt="" />
 
-## ▸ Featured Projects
+## Shipped projects
 
-| Project | Focus | Description |
-| --- | --- | --- |
-| **[DermaFusion — Skin Cancer Detection](https://github.com/RahulReddyKota/DermaFusion)** | Healthcare AI | ResNet50 + VGG16 transfer learning on HAM10000 dermoscopic images; **90%+ validation accuracy** with augmentation and class-weighting; Grad-CAM explainability across all seven lesion categories. Recognized at AI RADA & Healthcare (Jan 2026). |
-| **[ARC AI — Maryland Housing Law Assistant](https://github.com/RahulReddyKota/ARC-AI-Augmented-Reasoning-Core)** | Legal RAG | Local-first RAG over seven official Maryland sources using ChromaDB and Ollama, with live switching between Llama 3.1 8B, Mistral 7B, and Qwen 2.5 7B; evaluation harness for citation accuracy and hallucination rate. |
-| **Big Data Job Market Analysis** | Distributed Data Engineering | PySpark + Hive pipeline on AWS EMR processing millions of job postings into partitioned ORC storage; Power BI dashboard for skill demand, salary benchmarks, and regional hiring trends. |
-| **Trading on Trends** | Financial NLP | FinBERT headline sentiment combined with RSI, MACD, and Bollinger Band features to predict next-day direction; LSTM vs. Random Forest benchmark with SQL-backed back-testing. |
-| **Cyberbullying Detection** | NLP / Safety AI | Bi-LSTM with GloVe embeddings for six-class detection, outperforming SVM and Naive Bayes baselines on macro F1; ablation comparing static vs. fine-tuned embeddings. |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![divider](divider.svg)](#)
+### [DermaFusion](https://github.com/RahulReddyKota/DermaFusion)
+Classifies dermoscopic images from HAM10000 using ResNet50 and VGG16 transfer learning. Grad-CAM heatmaps show which part of each lesion drove the prediction.
 
-[![Footer](footer.svg)](#)
+![val_acc](https://img.shields.io/badge/val__acc-90%25%2B-F5A524?style=flat-square&labelColor=12355B)
+![classes](https://img.shields.io/badge/lesion__types-7-F5A524?style=flat-square&labelColor=12355B)
+![award](https://img.shields.io/badge/recognized-AI%20RADA%20%26%20Healthcare%202026-7FD6A4?style=flat-square&labelColor=12355B)
+
+<sub>TensorFlow · Keras · OpenCV · Grad-CAM</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [ARC AI](https://github.com/RahulReddyKota/ARC-AI-Augmented-Reasoning-Core)
+Answers Maryland tenant and landlord questions with citations back to official sources. Runs locally and switches between three open models in real time.
+
+![sources](https://img.shields.io/badge/sources-7%20official-F5A524?style=flat-square&labelColor=12355B)
+![models](https://img.shields.io/badge/local__LLMs-Llama%20%7C%20Mistral%20%7C%20Qwen-F5A524?style=flat-square&labelColor=12355B)
+![eval](https://img.shields.io/badge/evaluated-citations%20%26%20hallucinations-7FD6A4?style=flat-square&labelColor=12355B)
+
+<sub>Python · ChromaDB · Ollama · sentence transformers</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Job Market Analysis
+Processes millions of raw job postings on AWS EMR, then surfaces skill demand, salary benchmarks, and regional hiring patterns in Power BI.
+
+![scale](https://img.shields.io/badge/scale-millions%20of%20postings-F5A524?style=flat-square&labelColor=12355B)
+![storage](https://img.shields.io/badge/storage-partitioned%20ORC-F5A524?style=flat-square&labelColor=12355B)
+
+<sub>PySpark · Hive · AWS EMR · S3 · Power BI</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Trading on Trends
+Predicts next-day stock direction by combining FinBERT sentiment on headlines with RSI, MACD, and Bollinger Band signals.
+
+![signals](https://img.shields.io/badge/signals-sentiment%20%2B%20technicals-F5A524?style=flat-square&labelColor=12355B)
+![models](https://img.shields.io/badge/benchmark-LSTM%20vs%20Random%20Forest-F5A524?style=flat-square&labelColor=12355B)
+
+<sub>Python · FinBERT · LSTM · SQL</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Cyberbullying Detection
+Sorts messages into six categories with a Bi-LSTM on GloVe embeddings, beating SVM and Naive Bayes baselines on macro F1.
+
+![classes](https://img.shields.io/badge/classes-6-F5A524?style=flat-square&labelColor=12355B)
+![beats](https://img.shields.io/badge/beats-SVM%20%26%20Naive%20Bayes-7FD6A4?style=flat-square&labelColor=12355B)
+
+<sub>TensorFlow · Keras · Bi-LSTM · GloVe</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Your project here
+Working on something in healthcare AI, RAG, or big data? I'm looking for the next pipeline to build.
+
+[Message me on LinkedIn](https://www.linkedin.com/in/rahul-reddy-kota-b55a3a251/)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="footer.svg" width="100%" alt="Approved to ship. Let's build something that ships." />
+</p>
