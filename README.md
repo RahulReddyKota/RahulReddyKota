@@ -1,122 +1,57 @@
-# 👋 Hi, I'm **Rahul Reddy Kota**
+[![Banner](banner.svg)](https://github.com/RahulReddyKota)
 
-<!-- Typing animation banner. Edit the phrases after lines= (separate with %3B, spaces = +). -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=8A2BE2&center=true&vCenter=true&width=850&lines=Data+Scientist+%26+ML+Engineer+🤖;NLP+%2F+RAG+Systems+Builder+🧠;Big+Data+%26+Cloud+Analytics+⚙️;Turning+Data+into+Insight+🚀)](https://github.com/RahulReddyKota)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=8A2BE2&center=true&vCenter=true&width=750&lines=Turning+messy+data+into+models+that+ship;RAG+%7C+NLP+%7C+Healthcare+AI+%7C+Explainable+ML;PySpark+%7C+Azure+Databricks+%7C+AWS+EMR" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-183153?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![UMBC Email](https://img.shields.io/badge/UMBC%20Email-FFC20E?style=for-the-badge&logo=maildotru&logoColor=black)](mailto:YOUR_UMBC_EMAIL@umbc.edu)
-![Location](https://img.shields.io/badge/Baltimore,%20MD-000000?style=for-the-badge&logo=googlemaps&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-reddy-kota-b55a3a251/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn"/></a>
+  <a href="https://rahulreddykota.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=8A2BE2" alt="Portfolio"/></a>
+  <a href="https://github.com/RahulReddyKota"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2" alt="GitHub"/></a>
+  <!-- To add an email badge, uncomment and put your real address in:
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email"/></a>
+  -->
+</p>
 
----
+[![divider](divider.svg)](#)
 
-## 🚀 About Me
+## ▸ About
 
-Results-driven **Data Analyst and ML Engineer** with industry experience at **Accenture** and research at **UMBC**, building machine learning systems, cloud analytics pipelines, and NLP/RAG applications with **Python, Spark, TensorFlow, and Azure Databricks**. Track record of cutting manual effort **25–40%** through intelligent automation and scalable data systems.
+Data Scientist & ML Engineer who has worked on both sides of the pipeline: moving and cleaning enterprise data at **Accenture**, and building models on top of it at **UMBC**. Currently pursuing an **M.S. in Data Science at UMBC**, where I'm a Research Assistant in the Data Analytics Lab.
 
-Currently pursuing an **M.S. in Data Science at UMBC (GPA 4.0)**, building on a B.Tech in CSE and professional experience across data engineering, front-end development, and applied research.
+At Accenture, I led post-merger data migration work — ETL with Oracle Data Integrator, SQL, and Azure Databricks, Cosmos DB restructured into a Lakehouse, CI/CD through Azure DevOps — and built Tableau KPI dashboards that cut manual effort by **25%**. At UMBC, my SQL and Python pipelines reduced research preprocessing time by **~40%**.
 
-- 🔭 **Open to** — Data Scientist, ML Engineer, Data Analyst, SDE/SWE, and Solutions Architect roles
-- 👯 **Collaborating on** — end-to-end ML pipelines, LLM/RAG applications, big data engineering, and NLP systems
-- 📚 **Currently learning** — advanced deep learning, LLM fine-tuning, distributed systems, cloud-native architecture
-- 💬 **Ask me about** — ML pipelines, NLP, RAG, PySpark, ETL/ELT, Azure Databricks, Power BI, deep learning
+These days I build RAG systems, NLP pipelines, and explainable healthcare models, with a bias toward things that actually run outside a notebook.
 
----
+***"A model that scores well in a notebook is a draft. A model that runs reliably on real data is a product — that's the one I'm trying to build."***
 
-## 💼 Tech Stack
+[![divider](divider.svg)](#)
 
-<!-- skillicons auto-renders icons. Edit the i= list (slugs at https://skillicons.dev). -->
-[![My Skills](https://skillicons.dev/icons?i=python,java,scala,js,bash,tensorflow,pytorch,sklearn,spark,hadoop,aws,azure,postgres,mysql,mongodb,docker,git,react,flask)](https://skillicons.dev)
+## ▸ Technical Skills
 
-**Languages:** Python, SQL, Java, Scala, JavaScript, Bash  
-**ML & AI:** TensorFlow, Keras, PyTorch, scikit-learn, Hugging Face, RAG, LSTM, Transfer Learning  
-**Big Data & Cloud:** Spark, Hadoop, AWS, Azure, Snowflake, PySpark, Databricks, Kafka  
-**Databases:** PostgreSQL, MySQL, MongoDB, Cosmos DB, ChromaDB  
-**ETL & DevOps:** Azure DevOps, Docker, Git, Jira, ODI, CI/CD  
-**BI & Web:** Tableau, Power BI, Plotly, React, Flask
+| Category | Skills |
+| --- | --- |
+| **Languages** | Python, SQL, Java, Scala, JavaScript, Bash |
+| **Machine Learning & Deep Learning** | TensorFlow, Keras, PyTorch, scikit-learn, Hugging Face, LSTM / Bi-LSTM, Transfer Learning, Grad-CAM |
+| **LLMs & Retrieval** | Retrieval-Augmented Generation, Ollama, Llama 3.1, Mistral 7B, Qwen 2.5, ChromaDB, Semantic Search, FinBERT |
+| **Big Data & Cloud** | Apache Spark / PySpark, Hadoop, Hive, Kafka, Azure Databricks, AWS (EMR, S3), Snowflake |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Cosmos DB |
+| **Data Engineering & DevOps** | ETL/ELT, Oracle Data Integrator, Azure DevOps, Docker, CI/CD, Git, Jira |
+| **BI & Web** | Power BI, Tableau, Plotly, React, Flask |
+| **Certifications** | AWS Certified Cloud Practitioner · Microsoft Power BI Data Analyst Associate · Google Data Analytics Professional Certificate |
 
----
+[![divider](divider.svg)](#)
 
-## 🧪 Featured Projects
+## ▸ Featured Projects
 
-### 🩺 Skin Cancer Detection — DermaFusion
-CNN using **ResNet50 and VGG16 transfer learning** to classify dermoscopic images from the HAM10000 dataset as malignant or benign. Reached **90%+ validation accuracy** with data augmentation, class-weighting, and batch normalization, and applied **Grad-CAM** for clinical-grade explainability across all seven lesion categories. Evaluated with confusion matrix, ROC-AUC, and per-class F1.
+| Project | Focus | Description |
+| --- | --- | --- |
+| **[DermaFusion — Skin Cancer Detection](https://github.com/RahulReddyKota/DermaFusion)** | Healthcare AI | ResNet50 + VGG16 transfer learning on HAM10000 dermoscopic images; **90%+ validation accuracy** with augmentation and class-weighting; Grad-CAM explainability across all seven lesion categories. Recognized at AI RADA & Healthcare (Jan 2026). |
+| **[ARC AI — Maryland Housing Law Assistant](https://github.com/RahulReddyKota/ARC-AI-Augmented-Reasoning-Core)** | Legal RAG | Local-first RAG over seven official Maryland sources using ChromaDB and Ollama, with live switching between Llama 3.1 8B, Mistral 7B, and Qwen 2.5 7B; evaluation harness for citation accuracy and hallucination rate. |
+| **Big Data Job Market Analysis** | Distributed Data Engineering | PySpark + Hive pipeline on AWS EMR processing millions of job postings into partitioned ORC storage; Power BI dashboard for skill demand, salary benchmarks, and regional hiring trends. |
+| **Trading on Trends** | Financial NLP | FinBERT headline sentiment combined with RSI, MACD, and Bollinger Band features to predict next-day direction; LSTM vs. Random Forest benchmark with SQL-backed back-testing. |
+| **Cyberbullying Detection** | NLP / Safety AI | Bi-LSTM with GloVe embeddings for six-class detection, outperforming SVM and Naive Bayes baselines on macro F1; ablation comparing static vs. fine-tuned embeddings. |
 
-`Python` `TensorFlow` `Keras` `ResNet50` `VGG16` `OpenCV` `Grad-CAM` `XAI` `Healthcare AI`
+[![divider](divider.svg)](#)
 
-### ⚖️ ARC AI — RAG System for Maryland Housing & Rental Law
-Local-first **Retrieval-Augmented Generation** system answering tenant–landlord legal questions with citation-backed responses grounded in seven official Maryland sources. Documents chunked and embedded via sentence transformers in **ChromaDB**; served **Llama 3.1 8B, Mistral 7B, and Qwen 2.5 7B** through Ollama with real-time model switching. Layered nine NLP techniques (NER, extractive QA, intent classification, sentiment) and built an evaluation harness measuring citation accuracy, hallucination rate, and coherence.
-
-`Python` `ChromaDB` `Ollama` `Llama 3.1` `Mistral 7B` `RAG` `NLP` `Semantic Search` `Legal AI`
-
-### 📊 Big Data Job Market Analysis Tool
-Distributed **AWS EMR** pipeline using **PySpark and Hive** to ingest and process millions of raw job postings. Applied schema-on-read, window functions, and partitioned ORC storage for query efficiency, surfacing skill-demand trends, salary benchmarks, and regional hiring patterns in an interactive **Power BI** dashboard with drill-through and role-based filtering.
-
-`PySpark` `Hadoop` `Hive` `AWS EMR` `S3` `Power BI` `SQL` `Big Data`
-
-### 📈 Trading on Trends — Stock Sentiment Analysis
-Hybrid ML pipeline combining **FinBERT** sentiment scoring of financial headlines with OHLCV technical features (RSI, MACD, Bollinger Bands) to predict next-day movement direction. Benchmarked **LSTM vs. Random Forest** for directional accuracy and persisted predictions in a structured SQL schema for back-testing.
-
-`Python` `FinBERT` `NLTK` `LSTM` `Random Forest` `Pandas` `SQL` `Finance`
-
-### 🛡️ Cyberbullying Detection Using Neural Networks
-**Bi-LSTM** text classifier with pre-trained **GloVe (100d)** embeddings for multi-class detection across six categories, outperforming SVM and Naive Bayes baselines on precision, recall, and macro F1. Included a controlled ablation study comparing static vs. fine-tuned embeddings.
-
-`Python` `TensorFlow` `Keras` `Bi-LSTM` `GloVe` `NLTK` `Text Classification` `Safety AI`
-
----
-
-## 💼 Work Experience
-
-| Role | Organisation | Period |
-|------|--------------|--------|
-| 🔹 Research Assistant, Data Analytics Lab | University of Maryland, Baltimore County | Feb 2025 – Present |
-| 🔹 Data Analyst | Accenture, Hyderabad | Aug 2023 – Nov 2024 |
-| 🔹 Data Analyst Intern | Accenture, Hyderabad | May 2022 – May 2023 |
-
-**Accenture** — Led post-merger data migration, optimizing ETL pipelines with Oracle Data Integrator, SQL, and Azure Databricks and structuring Cosmos DB into a Databricks Lakehouse. Automated CI/CD with Azure DevOps, tracked sprints in Jira, and built Tableau KPI dashboards that cut manual effort by **25%**.
-
-**UMBC Research Assistant** — Designed SQL and Python pipelines for faculty research, reducing manual preprocessing **~40%**; built Power BI dashboards and authored ETL docs and data dictionaries.
-
----
-
-## 🎓 Education
-
-| Degree | Institution | GPA | Period |
-|--------|-------------|-----|--------|
-| 🎓 M.S. Data Science | University of Maryland, Baltimore County (UMBC) | 3.8 / 4.0 | Jan 2025 – Dec 2026 |
-| 🎓 B.Tech Computer Science & Engineering | Sreenidhi Institute of Science & Technology (SNIST) | 3.5 / 4.0 | Aug 2019 – Jul 2023 |
-
----
-
-## 📜 Certifications
-
-- **AWS Certified Cloud Practitioner**
-- **Google Data Analytics Professional Certificate**
-- **Microsoft Power BI Data Analyst Associate**
-- **Azure Databricks & Data Engineering** (Udemy)
-
----
-
-## 🏆 Awards & Recognition
-
-- 🥇 **AI RADA and Healthcare — Skin Cancer Detection** · January 2026
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahulReddyKota&theme=tokyonight)](https://github.com/RahulReddyKota)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulReddyKota&show_icons=true&theme=tokyonight)](https://github.com/RahulReddyKota)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulReddyKota&layout=compact&theme=tokyonight)](https://github.com/RahulReddyKota)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=RahulReddyKota&label=Profile%20Views&color=8A2BE2&style=flat-square)](https://github.com/RahulReddyKota)
-
----
-
-> *"The goal is to turn data into information, and information into insight."*
-
-**🔭 Open to** — Data Scientist · ML Engineer · Data Analyst · SDE/SWE · Solutions Architect
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Footer](footer.svg)](#)
