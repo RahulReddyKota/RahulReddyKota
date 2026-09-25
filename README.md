@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahul-reddy-kota-b55a3a251/"><img src="https://img.shields.io/badge/LinkedIn-12355B?style=for-the-badge&logo=linkedin&logoColor=F5A524" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rahul-reddy-kota-b55a3a251/"><img src="https://img.shields.io/badge/LinkedIn-12355B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Y1QTUyNCI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
   <a href="https://rahulreddykota.github.io/"><img src="https://img.shields.io/badge/Portfolio-12355B?style=for-the-badge&logo=githubpages&logoColor=F5A524" alt="Portfolio" /></a>
   <!-- To add email, uncomment and replace the address:
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-12355B?style=for-the-badge&logo=gmail&logoColor=F5A524" alt="Email" /></a>
@@ -46,7 +46,7 @@ open_to: [Data scientist, ML engineer, Data analyst, SWE, Solutions architect]
 | Stage | Tools |
 | --- | --- |
 | **① Ingest** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="36" alt="PostgreSQL, MySQL, MongoDB" /><br>Cosmos DB, Snowflake, Kafka |
-| **② Transform** | <img src="https://skillicons.dev/icons?i=spark,hadoop,azure,aws" height="36" alt="Spark, Hadoop, Azure, AWS" /><br>PySpark, Azure Databricks, Hive, AWS EMR, Oracle Data Integrator |
+| **② Transform** | <img src="https://skillicons.dev/icons?i=azure,aws" height="36" alt="Azure, AWS" /><br>Apache Spark (PySpark), Hadoop, Hive, Azure Databricks, AWS EMR, Oracle Data Integrator |
 | **③ Train** | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" height="36" alt="Python, TensorFlow, PyTorch, scikit-learn" /><br>Keras, Hugging Face, FinBERT, ChromaDB, Ollama |
 | **④ Ship** | <img src="https://skillicons.dev/icons?i=docker,git,flask,react" height="36" alt="Docker, Git, Flask, React" /><br>Azure DevOps, CI/CD, Power BI, Tableau, Jira |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,java,scala,js,bash" height="36" alt="Python, Java, Scala, JavaScript, Bash" /><br>SQL |
