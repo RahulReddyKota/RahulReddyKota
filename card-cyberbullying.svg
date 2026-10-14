@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" role="img" aria-label="Cyberbullying Detection: Bi-LSTM on GloVe embeddings that sorts messages into 6 categories and beats SVM and Naive Bayes.">
+  <title>Cyberbullying Detection</title>
+  <defs>
+    <linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#C4B5FD" stop-opacity="0"/><stop offset=".5" stop-color="#C4B5FD"/><stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r=".9"><stop offset="0" stop-color="#C4B5FD" stop-opacity=".18"/><stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/></radialGradient>
+    <clipPath id="card"><rect x="1" y="1" width="598" height="238" rx="16"/></clipPath>
+  </defs>
+  <style>
+    .head { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; fill: #8B949E; }
+    .title { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 26px; font-weight: 800; fill: #F0F6FC; letter-spacing: -.5px; }
+    .desc { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; fill: #C9D1D9; }
+    .chip { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12px; }
+    .meta { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; fill: #8B949E; }
+    .cta { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; font-weight: 700; }
+    .tiny { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 9px; }
+    .in { animation: rise .7s ease-out both; }
+    .in2 { animation: rise .7s .15s ease-out both; }
+    .in3 { animation: rise .7s .3s ease-out both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="600" height="240" fill="#0D1117"/>
+    <rect width="600" height="240" fill="url(#glow)"/>
+    <rect y="0" width="180" height="3" fill="url(#sweep)">
+      <animate attributeName="x" values="-180;600" dur="3.5s" begin="1.6s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="1" y="1" width="598" height="238" rx="16" fill="none" stroke="#30363D"/>
+
+  <g class="in">
+    <path d="M30,24 h11 a2,2 0 0 1 2,2 v14 a2,2 0 0 1 -2,2 h-11 a2,2 0 0 1 -2,-2 v-14 a2,2 0 0 1 2,-2z M31,38 h10" fill="none" stroke="#8B949E" stroke-width="1.5"/>
+    <text x="52" y="38" class="head">RahulReddyKota · project</text>
+    <text x="28" y="84" class="title">Cyberbullying Detection</text>
+  </g>
+  <g class="in2">
+    <text x="28" y="112" class="desc">Bi-LSTM on GloVe embeddings that sorts messages</text>
+    <text x="28" y="132" class="desc">into 6 categories and beats SVM and Naive Bayes.</text>
+  </g>
+  <g class="in3"><g><rect x="28" y="146" width="88" height="26" rx="13" fill="#C4B5FD" fill-opacity=".1" stroke="#C4B5FD" stroke-opacity=".5"/><text x="72" y="163.5" text-anchor="middle" class="chip" fill="#C4B5FD">6 classes</text></g><g><rect x="124" y="146" width="110" height="26" rx="13" fill="#C4B5FD" fill-opacity=".1" stroke="#C4B5FD" stroke-opacity=".5"/><text x="178" y="163.5" text-anchor="middle" class="chip" fill="#C4B5FD">macro-F1 win</text></g><g><rect x="241" y="146" width="124" height="26" rx="13" fill="#C4B5FD" fill-opacity=".1" stroke="#C4B5FD" stroke-opacity=".5"/><text x="303" y="163.5" text-anchor="middle" class="chip" fill="#C4B5FD">ablation study</text></g></g>
+  <line x1="28" y1="188" x2="572" y2="188" stroke="#21262D"/>
+  <circle cx="34" cy="208" r="6" fill="#3572A5"/><text x="46" y="213" class="meta">Python</text>
+  <text x="110" y="213" class="meta">TensorFlow · Bi-LSTM · GloVe · NLTK</text>
+  
+  
+  <g transform="translate(468,58)">
+    <rect x="0" y="0" width="110" height="110" rx="14" fill="#C4B5FD" fill-opacity=".06" stroke="#C4B5FD" stroke-opacity=".3"/>
+    <path d="M55,16 L84,27 L84,52 C84,72 71,86 55,94 C39,86 26,72 26,52 L26,27Z" fill="none" stroke="#C4B5FD" stroke-opacity=".35" stroke-width="8">
+      <animate attributeName="stroke-opacity" values=".1;.45;.1" dur="2s" repeatCount="indefinite"/></path>
+    <path d="M55,16 L84,27 L84,52 C84,72 71,86 55,94 C39,86 26,72 26,52 L26,27Z" fill="#C4B5FD" fill-opacity=".15" stroke="#C4B5FD" stroke-width="2"/>
+    <path d="M42,54 L51,63 L69,44" fill="none" stroke="#C4B5FD" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="40" stroke-dashoffset="40">
+      <animate attributeName="stroke-dashoffset" values="40;0;0;40" keyTimes="0;.3;.85;1" dur="3s" repeatCount="indefinite"/></path>
+  </g>
+</svg>
