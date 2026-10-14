@@ -11,20 +11,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I build **machine learning systems, NLP/RAG applications and cloud data pipelines** that make it out of the notebook and into production. I've worked as a **Data Analyst at Accenture** and now do research at **UMBC's Data Analytics Lab**, using **Python, Spark, TensorFlow and Azure Databricks**. My automation work has cut manual effort by **25–40%**.
 
 I'm currently pursuing an **M.S. in Data Science at UMBC** (graduating Dec 2026), after a B.Tech in Computer Science & Engineering.
 
-- 🔭 **Open to:** Data Scientist · ML Engineer · Data Analyst · SDE/SWE · Solutions Architect roles
-- 🛠️ **Building:** end-to-end ML pipelines, LLM/RAG applications, big-data engineering, NLP systems
-- 📚 **Learning:** LLM fine-tuning, advanced deep learning, distributed systems, cloud-native architecture
-- 💬 **Ask me about:** RAG, NLP, PySpark, ETL/ELT, Azure Databricks, Power BI, deep learning
+-  **Open to:** Data Scientist · ML Engineer · Data Analyst · SDE/SWE · Solutions Architect roles
+-  **Building:** end-to-end ML pipelines, LLM/RAG applications, big-data engineering, NLP systems
+-  **Learning:** LLM fine-tuning, advanced deep learning, distributed systems, cloud-native architecture
+-  **Ask me about:** RAG, NLP, PySpark, ETL/ELT, Azure Databricks, Power BI, deep learning
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,scala,js,bash,tensorflow,pytorch,sklearn,spark,hadoop,aws,azure,postgres,mysql,mongodb,docker,git,react,flask&perline=10" alt="Tech stack"/>
@@ -41,7 +41,7 @@ I'm currently pursuing an **M.S. in Data Science at UMBC** (graduating Dec 2026)
 
 ---
 
-## 🧪 Featured Projects
+##  Featured Projects
 
 <p align="center">
   <a href="https://github.com/RahulReddyKota/DermaFusion"><img src="./card-dermafusion.svg" width="49%" alt="DermaFusion: skin cancer detection with ResNet50, VGG16 and Grad-CAM"/></a>
@@ -55,16 +55,16 @@ I'm currently pursuing an **M.S. in Data Science at UMBC** (graduating Dec 2026)
 <details>
 <summary><b>Read the full project write-ups</b></summary>
 
-### 🩺 [DermaFusion](https://github.com/RahulReddyKota/DermaFusion): Skin Cancer Detection
+### [DermaFusion](https://github.com/RahulReddyKota/DermaFusion): Skin Cancer Detection
 A CNN that uses **ResNet50 and VGG16 transfer learning** to classify HAM10000 dermoscopic images as malignant or benign.
 - **90%+ validation accuracy** using augmentation, class weighting and batch normalization
 - **Grad-CAM** heatmaps explain predictions across all seven lesion categories
 - Evaluated with confusion matrices, ROC-AUC and per-class F1
-- 🥇 Recognized at **AI RADA and Healthcare** (Jan 2026)
+- Recognized at **AI RADA and Healthcare** (Jan 2026)
 
 `Python` `TensorFlow` `Keras` `ResNet50` `VGG16` `OpenCV` `Grad-CAM` `Healthcare AI`
 
-### ⚖️ [ARC AI](https://github.com/RahulReddyKota/ARC-AI-Augmented-Reasoning-Core): RAG Assistant for Maryland Housing Law
+### [ARC AI](https://github.com/RahulReddyKota/ARC-AI-Augmented-Reasoning-Core): RAG Assistant for Maryland Housing Law
 A local-first **Retrieval-Augmented Generation** system that answers tenant–landlord questions with citations to seven official Maryland sources.
 - Sentence-transformer embeddings stored in **ChromaDB**
 - Switch between **Llama 3.1 8B, Mistral 7B and Qwen 2.5 7B** in real time via Ollama
@@ -73,21 +73,21 @@ A local-first **Retrieval-Augmented Generation** system that answers tenant–la
 
 `Python` `ChromaDB` `Ollama` `Llama 3.1` `Mistral` `RAG` `NLP` `Legal AI`
 
-### 📊 Big Data Job Market Analysis
+### Big Data Job Market Analysis
 A distributed **AWS EMR** pipeline that uses **PySpark and Hive** to process millions of raw job postings.
 - Schema-on-read, window functions and partitioned ORC storage keep queries fast
 - **Power BI** dashboard shows skill demand, salary benchmarks and regional hiring, with drill-through
 
 `PySpark` `Hive` `AWS EMR` `S3` `Power BI` `SQL`
 
-### 📈 Trading on Trends: Stock Sentiment Analysis
+### Trading on Trends: Stock Sentiment Analysis
 Combines **FinBERT** sentiment on financial headlines with RSI, MACD and Bollinger Band features to predict next-day price direction.
 - Benchmarks **LSTM against Random Forest**
 - Stores predictions in SQL for back-testing
 
 `Python` `FinBERT` `LSTM` `Random Forest` `Pandas` `SQL`
 
-### 🛡️ Cyberbullying Detection with Neural Networks
+### Cyberbullying Detection with Neural Networks
 A **Bi-LSTM + GloVe (100d)** classifier that sorts text into six categories.
 - Beats SVM and Naive Bayes baselines on macro F1
 - Includes an ablation study comparing static and fine-tuned embeddings
@@ -98,13 +98,13 @@ A **Bi-LSTM + GloVe (100d)** classifier that sorts text into six categories.
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Organization | Period |
 | --- | --- | --- |
-| 🔹 **Research Assistant**, Data Analytics Lab | University of Maryland, Baltimore County | Feb 2025 – Present |
-| 🔹 **Data Analyst** | Accenture, Hyderabad | Aug 2023 – Nov 2024 |
-| 🔹 **Data Analyst Intern** | Accenture, Hyderabad | May 2022 – May 2023 |
+|  **Research Assistant**, Data Analytics Lab | University of Maryland, Baltimore County | Feb 2025 – Present |
+|  **Data Analyst** | Accenture, Hyderabad | Aug 2023 – Nov 2024 |
+|  **Data Analyst Intern** | Accenture, Hyderabad | May 2022 – May 2023 |
 
 **UMBC:** Built SQL and Python pipelines for faculty research, cutting manual preprocessing by about **40%**. Also built Power BI dashboards and wrote ETL documentation and data dictionaries.
 
@@ -112,14 +112,14 @@ A **Bi-LSTM + GloVe (100d)** classifier that sorts text into six categories.
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | GPA | Period |
 | --- | --- | --- | --- |
-| 🎓 **M.S. Data Science** | University of Maryland, Baltimore County | 3.8 / 4.0 | Jan 2025 – Dec 2026 |
-| 🎓 **B.Tech, Computer Science & Engineering** | Sreenidhi Institute of Science & Technology | 3.5 / 4.0 | Aug 2019 – Jul 2023 |
+|  **M.S. Data Science** | University of Maryland, Baltimore County | 3.8 / 4.0 | Jan 2025 – Dec 2026 |
+|  **B.Tech, Computer Science & Engineering** | Sreenidhi Institute of Science & Technology | 3.5 / 4.0 | Aug 2019 – Jul 2023 |
 
-## 📜 Certifications
+## Certifications
 
 ![AWS](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Google](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -128,7 +128,7 @@ A **Bi-LSTM + GloVe (100d)** classifier that sorts text into six categories.
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <a href="https://github.com/RahulReddyKota?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"/></a>
