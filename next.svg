@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" role="img" aria-label="Your project here: Healthcare AI, RAG or big data: I'm looking for the next pipeline to build and ship.">
+  <title>Your project here</title>
+  <defs>
+    <linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#8A2BE2" stop-opacity="0"/><stop offset=".5" stop-color="#8A2BE2"/><stop offset="1" stop-color="#8A2BE2" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r=".9"><stop offset="0" stop-color="#8A2BE2" stop-opacity=".18"/><stop offset="1" stop-color="#8A2BE2" stop-opacity="0"/></radialGradient>
+    <clipPath id="card"><rect x="1" y="1" width="598" height="238" rx="16"/></clipPath>
+  </defs>
+  <style>
+    .head { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; fill: #8B949E; }
+    .title { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 26px; font-weight: 800; fill: #F0F6FC; letter-spacing: -.5px; }
+    .desc { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; fill: #C9D1D9; }
+    .chip { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12px; }
+    .meta { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; fill: #8B949E; }
+    .cta { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; font-weight: 700; }
+    .tiny { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 9px; }
+    .in { animation: rise .7s ease-out both; }
+    .in2 { animation: rise .7s .15s ease-out both; }
+    .in3 { animation: rise .7s .3s ease-out both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="600" height="240" fill="#0D1117"/>
+    <rect width="600" height="240" fill="url(#glow)"/>
+    <rect y="0" width="180" height="3" fill="url(#sweep)">
+      <animate attributeName="x" values="-180;600" dur="3.5s" begin="2.0s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="1" y="1" width="598" height="238" rx="16" fill="none" stroke="#30363D"/>
+
+  <g class="in">
+    <path d="M30,24 h11 a2,2 0 0 1 2,2 v14 a2,2 0 0 1 -2,2 h-11 a2,2 0 0 1 -2,-2 v-14 a2,2 0 0 1 2,-2z M31,38 h10" fill="none" stroke="#8B949E" stroke-width="1.5"/>
+    <text x="52" y="38" class="head">RahulReddyKota / next-up</text>
+    <text x="28" y="84" class="title">Your project here</text>
+  </g>
+  <g class="in2">
+    <text x="28" y="112" class="desc">Healthcare AI, RAG or big data: I'm looking for</text>
+    <text x="28" y="132" class="desc">the next pipeline to build and ship.</text>
+  </g>
+  <g class="in3"><g><rect x="28" y="146" width="212" height="26" rx="13" fill="#8A2BE2" fill-opacity=".1" stroke="#8A2BE2" stroke-opacity=".5"/><text x="134" y="163.5" text-anchor="middle" class="chip" fill="#8A2BE2">open to DS / ML / AI roles</text></g></g>
+  <line x1="28" y1="188" x2="572" y2="188" stroke="#21262D"/>
+  
+  <text x="28" y="213" class="meta">let's build something that ships</text>
+  <text x="572" y="213" text-anchor="end" class="cta" fill="#8A2BE2">message me →</text>
+  
+  <g transform="translate(468,58)">
+    <rect x="0" y="0" width="110" height="110" rx="14" fill="#8A2BE2" fill-opacity=".06" stroke="#8A2BE2" stroke-opacity=".3"/>
+    <clipPath id="box"><rect width="110" height="110" rx="14"/></clipPath>
+    <g fill="#E6EDF3" clip-path="url(#box)"><circle cx="18" cy="-10" r="1.3"><animate attributeName="cy" values="-10;100" dur="1.6s" begin="-0.0s" repeatCount="indefinite"/></circle><circle cx="34" cy="-50" r="1.3"><animate attributeName="cy" values="-50;60" dur="2.1s" begin="-0.4s" repeatCount="indefinite"/></circle><circle cx="88" cy="-20" r="1.3"><animate attributeName="cy" values="-20;90" dur="2.6s" begin="-0.8s" repeatCount="indefinite"/></circle><circle cx="76" cy="-80" r="1.3"><animate attributeName="cy" values="-80;30" dur="1.6s" begin="-1.2s" repeatCount="indefinite"/></circle><circle cx="22" cy="-95" r="1.3"><animate attributeName="cy" values="-95;15" dur="2.1s" begin="-1.6s" repeatCount="indefinite"/></circle><circle cx="95" cy="-60" r="1.3"><animate attributeName="cy" values="-60;50" dur="2.6s" begin="-2.0s" repeatCount="indefinite"/></circle><circle cx="60" cy="-35" r="1.3"><animate attributeName="cy" values="-35;75" dur="1.6s" begin="-2.4s" repeatCount="indefinite"/></circle></g>
+    <g transform="translate(55,55)">
+      <animateTransform attributeName="transform" type="translate" values="55 57;55 51;55 57" dur="1.4s" repeatCount="indefinite"/>
+      <path d="M0,-30 C11,-18 11,6 7,16 L-7,16 C-11,6 -11,-18 0,-30Z" fill="#E6EDF3"/>
+      <circle cx="0" cy="-8" r="5" fill="#8A2BE2"/>
+      <path d="M-7,6 L-17,20 L-7,16Z M7,6 L17,20 L7,16Z" fill="#8A2BE2"/>
+      <path d="M-5,17 L0,34 L5,17Z" fill="#F59E0B"><animate attributeName="d" values="M-5,17 L0,34 L5,17Z;M-5,17 L0,26 L5,17Z;M-5,17 L0,34 L5,17Z" dur=".25s" repeatCount="indefinite"/></path>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" role="img" aria-label="DermaFusion: CNN that classifies HAM10000 skin lesions with ResNet50 + VGG16 transfer learning and Grad-CAM.">
+  <title>DermaFusion</title>
+  <defs>
+    <linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#F472B6" stop-opacity="0"/><stop offset=".5" stop-color="#F472B6"/><stop offset="1" stop-color="#F472B6" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r=".9"><stop offset="0" stop-color="#F472B6" stop-opacity=".18"/><stop offset="1" stop-color="#F472B6" stop-opacity="0"/></radialGradient>
+    <clipPath id="card"><rect x="1" y="1" width="598" height="238" rx="16"/></clipPath>
+  </defs>
+  <style>
+    .head { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; fill: #8B949E; }
+    .title { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 26px; font-weight: 800; fill: #F0F6FC; letter-spacing: -.5px; }
+    .desc { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; fill: #C9D1D9; }
+    .chip { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12px; }
+    .meta { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; fill: #8B949E; }
+    .cta { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; font-weight: 700; }
+    .tiny { font-family: 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 9px; }
+    .in { animation: rise .7s ease-out both; }
+    .in2 { animation: rise .7s .15s ease-out both; }
+    .in3 { animation: rise .7s .3s ease-out both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="600" height="240" fill="#0D1117"/>
+    <rect width="600" height="240" fill="url(#glow)"/>
+    <rect y="0" width="180" height="3" fill="url(#sweep)">
+      <animate attributeName="x" values="-180;600" dur="3.5s" begin="0.0s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="1" y="1" width="598" height="238" rx="16" fill="none" stroke="#30363D"/>
+
+  <g class="in">
+    <path d="M30,24 h11 a2,2 0 0 1 2,2 v14 a2,2 0 0 1 -2,2 h-11 a2,2 0 0 1 -2,-2 v-14 a2,2 0 0 1 2,-2z M31,38 h10" fill="none" stroke="#8B949E" stroke-width="1.5"/>
+    <text x="52" y="38" class="head">RahulReddyKota / DermaFusion</text>
+    <text x="28" y="84" class="title">DermaFusion</text>
+  </g>
+  <g class="in2">
+    <text x="28" y="112" class="desc">CNN that classifies HAM10000 skin lesions with</text>
+    <text x="28" y="132" class="desc">ResNet50 + VGG16 transfer learning and Grad-CAM.</text>
+  </g>
+  <g class="in3"><g><rect x="28" y="146" width="146" height="26" rx="13" fill="#F472B6" fill-opacity=".1" stroke="#F472B6" stroke-opacity=".5"/><text x="101" y="163.5" text-anchor="middle" class="chip" fill="#F472B6">90%+ val accuracy</text></g><g><rect x="182" y="146" width="124" height="26" rx="13" fill="#F472B6" fill-opacity=".1" stroke="#F472B6" stroke-opacity=".5"/><text x="244" y="163.5" text-anchor="middle" class="chip" fill="#F472B6">7 lesion types</text></g><g><rect x="314" y="146" width="117" height="26" rx="13" fill="#F472B6" fill-opacity=".1" stroke="#F472B6" stroke-opacity=".5"/><text x="373" y="163.5" text-anchor="middle" class="chip" fill="#F472B6">AI RADA award</text></g></g>
+  <line x1="28" y1="188" x2="572" y2="188" stroke="#21262D"/>
+  <circle cx="34" cy="208" r="6" fill="#3572A5"/><text x="46" y="213" class="meta">Python</text>
+  <text x="110" y="213" class="meta">TensorFlow · Keras · OpenCV · Grad-CAM</text>
+  <text x="572" y="213" text-anchor="end" class="cta" fill="#F472B6">view repo →</text>
+  
+  <g transform="translate(468,58)">
+    <rect x="0" y="0" width="110" height="110" rx="14" fill="#F472B6" fill-opacity=".06" stroke="#F472B6" stroke-opacity=".3"/>
+    <g stroke="#F472B6" stroke-opacity=".15"><line x1="14" y1="8" x2="14" y2="102"/><line x1="30" y1="8" x2="30" y2="102"/><line x1="46" y1="8" x2="46" y2="102"/><line x1="62" y1="8" x2="62" y2="102"/><line x1="78" y1="8" x2="78" y2="102"/><line x1="94" y1="8" x2="94" y2="102"/><line x1="8" y1="14" x2="102" y2="14"/><line x1="8" y1="30" x2="102" y2="30"/><line x1="8" y1="46" x2="102" y2="46"/><line x1="8" y1="62" x2="102" y2="62"/><line x1="8" y1="78" x2="102" y2="78"/><line x1="8" y1="94" x2="102" y2="94"/></g>
+    <path d="M55,30 C72,28 82,42 79,56 C77,72 64,82 50,79 C36,77 28,64 31,50 C33,38 42,31 55,30Z" fill="#7C2D12" fill-opacity=".85"/>
+    <path d="M54,40 C64,40 70,48 68,57 C66,66 58,71 50,69 C42,67 38,59 40,52 C42,45 47,40 54,40Z" fill="#F472B6" fill-opacity=".55">
+      <animate attributeName="fill-opacity" values=".2;.75;.2" dur="2.4s" repeatCount="indefinite"/></path>
+    <rect x="8" y="10" width="94" height="3" rx="1.5" fill="#F472B6">
+      <animate attributeName="y" values="10;96;10" dur="2.4s" repeatCount="indefinite"/></rect>
+    <text x="55" y="102" text-anchor="middle" class="tiny" fill="#F472B6">malignant? 0.07</text>
+  </g>
+</svg>
