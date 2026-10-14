@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-
+Hello, I'm Rahul 
 I build **machine learning systems, NLP/RAG applications and cloud data pipelines** that make it out of the notebook and into production. I've worked as a **Data Analyst at Accenture** and now do research at **UMBC's Data Analytics Lab**, using **Python, Spark, TensorFlow and Azure Databricks**. My automation work has cut manual effort by **25–40%**.
 
 I'm currently pursuing an **M.S. in Data Science at UMBC** (graduating Dec 2026), after a B.Tech in Computer Science & Engineering.
